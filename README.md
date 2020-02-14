@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+NOTE: Work in progress and if for some reason in the response you see status code 429 and some cards don't show the review it is because of the response status code 429 because Yelp limits and prevents too many calls so if you wait and try perhaps after 15 mins you will see all reviews. Unit test cases and other features will be included soon. 
+Which includes GraphQL Apollo or Relay being used and animations, being able to select other categories instad of ice cream always, paginations, review search etc.
+
 ## Available Scripts
 
 In the project directory, you can run:
